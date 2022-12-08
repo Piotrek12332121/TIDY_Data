@@ -1,0 +1,5 @@
+Pozyskane informacje przedstawiają pomiary pozyskane z organizacji  Global Historical Climatology Network od 1955 roku 
+dla stacji pogodowej  o ID=MX17004 znajdującej się w Meksyku.
+Dane zostały pozyskane w formacie .txt, kolumny zawierają informacje w następującej kolejności:
+-kolumna 1: infomracje o ID stacji, dacie oraz nazwie mierzonych wartości 
+-kolumny od 2 do 32: wartości temperatury w dniach miesiąca
